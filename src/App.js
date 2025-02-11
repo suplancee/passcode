@@ -69,7 +69,7 @@ function App() {
 
   const clearClickHandler = () => {
     setNum(0);
-    setDisp("ENTER CODE");
+    setDisp("INPUT CODE");
 
     console.log(num +'|'+ disp);
   };
