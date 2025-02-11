@@ -14,7 +14,7 @@ width: 500px;
 padding: 40px; 
 background-color: #07182c; 
 border-radius: 10px; 
-box-shadow: 0 4px 8px rgba(238, 2, 2, 0.3); 
+box-shadow: 0 9px 8px rgba(238, 2, 2, 0.3);  
 }
 
 .CalculatorDisplay {
